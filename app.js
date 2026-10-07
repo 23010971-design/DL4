@@ -5,7 +5,7 @@
 
 const MODEL_PATH = "./best.onnx";
 
-const INPUT_SIZE = 640;
+const INPUT_SIZE = 320;
 
 const CONF_THRESHOLD = 0.60;
 const IOU_THRESHOLD = 0.50;
